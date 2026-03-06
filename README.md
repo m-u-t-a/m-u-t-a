@@ -14,7 +14,7 @@
 
 ## 📊 github stats
 
-<p align="center">
+<p align="left">
   <img height="160em"
        src="https://github-readme-stats-sigma-five.vercel.app/api?username=m-u-t-a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 </p>
@@ -23,17 +23,22 @@
 
 ## 🔥 streak
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=m-u-t-a&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 activity graph
+## 🐍 my contributions get eaten
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-u-t-a&theme=tokyo-night&hide_border=true"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/m-u-t-a/m-u-t-a/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/m-u-t-a/m-u-t-a/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake"
+       src="https://raw.githubusercontent.com/m-u-t-a/m-u-t-a/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 ---
 
@@ -47,6 +52,6 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=m-u-t-a&color=blueviolet&style=flat-square&label=profile+views"/>
 </p>
