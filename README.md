@@ -16,7 +16,7 @@
 
 <p align="left">
   <img height="160em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=m-u-t-a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=al_p_s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 </p>
 
 ---
@@ -24,7 +24,7 @@
 ## 🔥 streak
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=m-u-t-a&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=al_p_s&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -33,11 +33,11 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/m-u-t-a/m-u-t-a/output/github-contribution-grid-snake-dark.svg"/>
+          srcset="https://raw.githubusercontent.com/al_p_s/al_p_s/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/m-u-t-a/m-u-t-a/output/github-contribution-grid-snake.svg"/>
+          srcset="https://raw.githubusercontent.com/al_p_s/al_p_s/output/github-contribution-grid-snake.svg"/>
   <img alt="github-snake"
-       src="https://raw.githubusercontent.com/m-u-t-a/m-u-t-a/output/github-contribution-grid-snake-dark.svg"/>
+       src="https://raw.githubusercontent.com/al_p_s/al_p_s/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 ---
@@ -45,7 +45,7 @@
 ## 📬 contacts
 
 <p align="left">
-  <a href="https://t.me/m_ut_a">
+  <a href="https://t.me/al_p_s">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
@@ -53,5 +53,5 @@
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=m-u-t-a&color=blueviolet&style=flat-square&label=profile+views"/>
+  <img src="https://komarev.com/ghpvc/?username=al-p-s&color=blueviolet&style=flat-square&label=profile+views"/>
 </p>
