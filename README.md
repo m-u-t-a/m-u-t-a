@@ -1,6 +1,6 @@
 ## what's buzzin, I'm Sasha 👾
 
-> software engineer (student) · can cook a bit code or coke or smth
+> software engineer (student) · can cook a bit code, or coke, or smth
 
 ---
 
