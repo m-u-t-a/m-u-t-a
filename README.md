@@ -16,7 +16,7 @@
 
 <p align="left">
   <img height="160em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=al_p_s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=al-p-s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 </p>
 
 ---
@@ -24,7 +24,7 @@
 ## 🔥 streak
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=al_p_s&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=al-p-s&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -33,11 +33,11 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/al_p_s/al_p_s/output/github-contribution-grid-snake-dark.svg"/>
+          srcset="https://raw.githubusercontent.com/al-p-s/al-p-s/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/al_p_s/al_p_s/output/github-contribution-grid-snake.svg"/>
+          srcset="https://raw.githubusercontent.com/al-p-s/al-p-s/output/github-contribution-grid-snake.svg"/>
   <img alt="github-snake"
-       src="https://raw.githubusercontent.com/al_p_s/al_p_s/output/github-contribution-grid-snake-dark.svg"/>
+       src="https://raw.githubusercontent.com/al-p-s/al-p-s/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 ---
