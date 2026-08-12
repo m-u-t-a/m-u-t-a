@@ -16,15 +16,19 @@
 
 <p align="left">
   <img height="160em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=al-p-s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=al-p-s&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 streak
+## 🔥 streak & activity
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=al-p-s&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=al-p-s&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
